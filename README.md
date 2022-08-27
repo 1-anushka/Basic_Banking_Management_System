@@ -6,4 +6,4 @@ The website has the following specification -
 Start with a dummy data for upto 10 customers. Customers table with basic fields such as name, email, current balance etc.
 
 # Website Link
-https://aditigupta11.github.io/Banking-Management-System/
+https://1-anushka.github.io/Basic_Banking_Management_System/
